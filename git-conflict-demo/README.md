@@ -11,7 +11,7 @@ This line was updated remotely again by me.
 
 Uncommitted line for stash test.
 
-This line was added locally (local edit)
+This line was edited locally (for guaranteed conflict)
 
 
 
