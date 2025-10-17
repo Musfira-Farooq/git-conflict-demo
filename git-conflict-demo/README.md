@@ -11,9 +11,5 @@ This line was updated remotely again by me.
 
 Uncommitted line for stash test.
 
-my name is musfira
-
-This line was added locally (local edit)
-
-
+My name is musfira
 
