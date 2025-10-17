@@ -9,4 +9,5 @@ This line was updated remotely again by me.
 
 
 This line was added from GitHub (remote edit)
+This line was added remotely for the rebase test.
 
